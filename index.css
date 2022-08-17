@@ -1,0 +1,44 @@
+body {
+  background-color: bisque;
+  font-family: "Luckiest Guy", cursive;
+  font-size: 35px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 70px;
+  text-align: center;
+  padding: 3rem;
+  margin: 3rem;
+}
+
+.container {
+  padding: 0 10px;
+  color: rgb(80, 19, 114);
+}
+
+.title {
+  color: rgb(0, 97, 97);
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input {
+  margin-bottom: 25px;
+}
+
+.box {
+  height: 100px;
+  width: 900px;
+  background-color: rgb(178, 89, 108);
+  margin-bottom: 25px;
+}
+
+.colors {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
